@@ -14,3 +14,6 @@
   (3)U 更新文章 (需要先登入)  
   (4)D 刪除文章 (需要先登入)  
 (url)https://vuejs123.azurewebsites.net/#  
+
+測試賬號 aaaa
+密碼     aaaa
